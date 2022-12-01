@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+
+#imdb{
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1{
+    color: yellow;
+}
+
+h2{
+    text-align: center;
+}
+
+.image{
+    text-align: center;
+}
+
+.parent{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    float: left;
+    border: 10px rgb(48, 48, 48) solid;
+    width: 22%;
+    height: 670px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: justify;
+    /* display: flex; */
+    /* justify-content: space-between;
+    justify-content: flex-end;
+    align-items: center; */
+    
+}
+
+.rating{
+    color: yellow;
+    text-align: center;
+    border: 2px gray solid;
+    border-radius: 10px;
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    /* justify-content: flex-end; */
+}
+
+img{
+    
+    width: 70%;
+    height: 50%;
+}
